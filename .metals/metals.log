@@ -1,1 +1,3 @@
 INFO  started: Metals version 0.8.0 in workspace 'D:\dev-njs\web-server'
+INFO  time: initialize in 2.88s
+WARN  no build tool detected in workspace 'D:\dev-njs\web-server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
